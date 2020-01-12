@@ -10,7 +10,7 @@
 --   type PatchTarget x = PatchOrReplace x
 {-# LANGUAGE UndecidableInstances #-}
 
-module Data.PartialMap where
+module Data.Patch.OrReplace where
 
 --import Data.Aeson
 import Data.Coerce
